@@ -11,7 +11,6 @@ print(subway)
 subway.insert(1, "추가")
 print(subway)
 
-# print(subway.pop(1))
 # print(subway)
 
 print(subway.count("2번"))
