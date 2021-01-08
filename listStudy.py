@@ -1,3 +1,17 @@
 
 subway = [10, 20, 30]
 print(subway)
+
+subway = ["1번", "2번"]
+print(subway.index("2번"))
+
+subway.append("4번")
+print(subway)
+
+subway.insert(1, "추가")
+print(subway)
+
+# print(subway.pop(1))
+# print(subway)
+
+print(subway.count("2번"))
