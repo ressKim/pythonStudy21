@@ -15,3 +15,5 @@ print(subway)
 # print(subway)
 
 print(subway.count("2번"))
+subway.append("에베베")
+print(subway)
